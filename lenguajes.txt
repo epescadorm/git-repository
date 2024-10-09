@@ -1,9 +1,9 @@
 Nueva línea
+
 Lenguajes de programación
-C
-C++
-Java
+C --> alto
+C++ --> alto
+Java --> alto
 
 Lenguas extranjeras
 Alemán
-
