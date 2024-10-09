@@ -1,4 +1,9 @@
 Nueva línea
+Lenguajes de programación
 C
 C++
 Java
+
+Lenguas extranjeras
+Alemán
+
